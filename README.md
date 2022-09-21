@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Chivier, a student in the University of Science and Technology of China.
+My name is Chivier, a student in Computer Science.
 
-I love coding since I am a child, and my love is still growing. I really enjoy creating new things and share my interesting ideas.
+I love coding since I was a child, and my love is still growing. I really enjoy creating new things and share my ideas.
 
 <!--
 **Chivier/Chivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
