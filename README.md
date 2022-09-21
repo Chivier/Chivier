@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chivier.humber@outlook.com
 
 Work smoothly with: *Rust*, *C*, *C++*, *Python*, *Latex*
+
 Familiar with: *Dart*, *Java*, *JavaScript*, *MATLAB*, *Julia*, *Lua*, *Clojure*
 
 
