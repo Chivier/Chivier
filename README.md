@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Quantum Computing and LLVM
 - 📫 How to reach me: chivier.humber@outlook.com
 
+Work smoothly with: *Rust*, *C*, *C++*, *Python*, *Latex*
+Familiar with: *Dart*, *Java*, *JavaScript*, *MATLAB*, *Julia*, *Lua*, *Clojure*
+
+
 ![](https://github.com/Chivier/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/Chivier/github-stats/blob/master/generated/languages.svg)
 
 
+(Daily commit is gennerated by Obsidian Daily, I use Obsidian to keep diary.)
 
+(Also, Javascript in the statistic above is part of codes in Obsidian Plugins. Actually, I wrote FORTRAN the most at school.)
