@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on High Performance Computing
-- 🌱 I’m currently learning Intel TBB
 - 🤔 I’m looking for help with Quantum Computing and LLVM
 - 📫 How to reach me: chivier.humber@outlook.com
 
