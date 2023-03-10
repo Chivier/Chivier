@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Quantum Computing and LLVM
 - 📫 How to reach me: chivier.humber@outlook.com
 
-Work smoothly with: *Rust*, *C*, *C++*, *Python*, *Latex*
+Work smoothly with: *Rust*, *C*, *C++*, *Cuda*, *Python*, *Latex*, *Go*
 
 Familiar with: *Dart*, *Java*, *JavaScript*, *MATLAB*, *Julia*, *Lua*, *Clojure*
 
