@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on High Performance Computing
-- 🤔 I’m looking for help with Quantum Computing and LLVM
+- 🔭 I’m currently working on Distributed System
+- 🤔 I’m looking for help with eBPF
 - 📫 How to reach me: chivier.humber@outlook.com
 
 Work smoothly with: *Rust*, *C*, *C++*, *Cuda*, *Python*, *Latex*, *Go*
