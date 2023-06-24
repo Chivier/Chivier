@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Distributed System
+- 🔭 I’m currently working on Distributed System for AI
 - 🤔 I’m looking for help with eBPF
 - 📫 How to reach me: chivier.humber@outlook.com
 
@@ -28,4 +28,4 @@ Familiar with: *Dart*, *Java*, *JavaScript*, *MATLAB*, *Julia*, *Lua*, *Clojure*
 
 (Daily commit is gennerated by Obsidian Daily, I use Obsidian to keep diary.)
 
-(Also, Javascript in the statistic above is part of codes in Obsidian Plugins. Actually, I wrote FORTRAN the most at school.)
+(BTW, Javascript in the statistic above is part of codes in Obsidian Plugins.)
