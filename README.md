@@ -28,4 +28,4 @@ Familiar with: *Dart*, *Java*, *JavaScript*, *MATLAB*, *Julia*, *Lua*, *Clojure*
 
 (Daily commit is gennerated by Obsidian Daily, I use Obsidian to keep diary.)
 
-(BTW, Javascript in the statistic above is part of codes in Obsidian Plugins.)
+(BTW, Javascript on the statistics above is part of codes in Obsidian Plugins.)
